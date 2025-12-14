@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Mural",
+	"slug": "text-mural",
+	"blockTypes": [
+		"core/heading",
+		"core/paragraph",
+		"core/post-title",
+		"core/site-title",
+		"core/query-title"
+	],
+	"styles": {
+		"typography": {
+			"fontSize": "var(--wp--preset--font-size--massive)",
+			"lineHeight": "var(--wp--custom--global--line-height--small)"
+		}
+	}
+}

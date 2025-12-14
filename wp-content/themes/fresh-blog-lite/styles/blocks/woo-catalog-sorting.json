@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"title": "Basic",
+	"slug": "woo-catalog-sorting-1",
+	"blockTypes": [ "woocommerce/catalog-sorting" ],
+	"styles": {
+		"css": "& select { font-size: var(--wp--preset--font-size--tiny) !important; padding: var(--wp--preset--spacing--8);"
+	}
+}
